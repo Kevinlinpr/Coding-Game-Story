@@ -1,5 +1,9 @@
 # 算法导论-读后感  [Progress](https://github.com/WindRunnerCackerChen/Coding-Game-Story  "进度") 
 
+## 第五章  概率分析和随机算法
+>2017/12/13 18：35 <b>计数与概率</b><br>
+
+
 ## 第二章  算法基础
 
 >2017/12/10 14:45 <b>伪代码中的一些约定</b><br>
