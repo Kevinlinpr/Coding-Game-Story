@@ -1,5 +1,7 @@
 # Coding-Game-Story   [Schedule](https://github.com/WindRunnerCackerChen/Coding-Game-Story/blob/master/Schedule.md "时间表")
 
+>2017/12/17 23:21:00 我今天去写了一下Q#，接触了一下最前沿的量子计算机编程领域
+
 >2017/12/15 20:38:00 我开始研究《计算机网络：自顶向下方法》的第一章  计算机网络和因特网
 
 >2017/12/14 由于考试停了一天，但是我晚上偷偷在玩uln2003apg驱动的57步减速步进电机,根据我指导老师的建议，我决定更换为《计算机网络》开始复习
